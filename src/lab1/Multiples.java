@@ -6,7 +6,6 @@ public class Multiples {
         System.out.println(count);
     }
 
-    // Extracted method
     public static int multiples(int n, int a, int b) {
         int count = 0;
         for (int i = 1; i < n; i++) {
