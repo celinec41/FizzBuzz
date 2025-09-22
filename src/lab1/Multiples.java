@@ -6,7 +6,7 @@ public class Multiples {
         System.out.println(count1);
 
         int count2 = multiples();
-        System.out.println(count2);
+        System.out.println(count2); //testing
     }
 
     public static int multiples(int n, int a, int b) {
