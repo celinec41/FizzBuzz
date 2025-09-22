@@ -5,7 +5,7 @@ public class Multiples {
         int count1 = multiples(1000, 3, 5);
         System.out.println(count1);
 
-        int count2 = multiples();
+        int count2 = multiples();//second test
         System.out.println(count2); //testing
     }
 
